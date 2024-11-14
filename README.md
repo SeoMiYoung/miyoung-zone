@@ -1,8 +1,9 @@
-## SWEA
-### D2
-- `1979`
-  - [어디에 단어가 들어갈 수 있을까? (SWEA)](https://www.youtube.com/watch?v=UpVD-lL-1Z8)
-- `2001`
-  - [파리 퇴치 (SWEA)](https://www.youtube.com/watch?v=4pKromHmu5E)
-- `1859`
-  - [백만 장자 프로젝트 (SWEA)](https://www.youtube.com/watch?v=VRvZuMfP20k)
+## 공부 정리 공간
+- [Issues 바로가기](https://github.com/algorithm-zone/miyoung-zone/issues?q=is%3Aissue+is%3Aclosed)
+
+### ✨ Labels
+- `개념`: 파이썬 문법 개념
+- `문제풀이`: 특정 구현을 위한 여러 방법
+- `시간초과`: 시간초과 문제 해결 이슈
+- `SWEA`, `프로그래머스`, `이취코`: 특정 문제를 위한 이슈
+- `알고리즘`: 문제 해결을 위한 알고리즘
