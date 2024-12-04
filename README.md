@@ -68,6 +68,6 @@
 ## 문제 목록
 | 🆔 번호 | 🔗 문제 링크                                    | ✏️ 나의 풀이 링크                                                   | 🛠️ 문제 유형   | 🔄 풀이 횟수 | 📚 참고 링크                       |
 |:-------:|-----------------------------------------------|---------------------------------------------------------------------|---------------|:------------:|-----------------------------------|
-|    1    | [문제1](https://www.example.com/problem1)     | [풀이1](https://www.example.com/solution1)                         | DFS           |      1       | [참고자료1](https://www.example.com/ref1) |
+|    1    | [문제1](https://www.example.com/problem1)     | [풀이1](https://www.example.com/solution1)                         | `해시`           |      1       | [참고자료1](https://www.example.com/ref1) |
 |    2    | [문제2](https://www.example.com/problem2)     | -                                                                   | 이분 탐색     |      2       | [참고자료2](https://www.example.com/ref2) |
 |    3    | [문제3](https://www.example.com/problem3)     | [풀이1](https://www.example.com/solution1) <br> [풀이2](https://www.example.com/solution2) | 다익스트라    |      2       | [참고자료3](https://www.example.com/ref3) |
