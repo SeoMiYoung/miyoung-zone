@@ -19,9 +19,9 @@
 ## 문제 목록
 | 🆔 번호 | 🔗 문제 링크                                    | ✏️ My 풀이                                                   | 🛠️ 유형   | 🔄 풀이 횟수 | 📚 참고                       |
 |:-------:|-----------------------------------------------|---------------------------------------------------------------------|---------------|:------------:|-----------------------------------|
-|    1    | [문제1](https://www.example.com/problem1)     | [풀이1](https://www.example.com/solution1)                         | `해시`           |      1       | [참고자료1](https://www.example.com/ref1) |
-|    2    | [문제2](https://www.example.com/problem2)     | -                                                                   | 이분 탐색     |      2       | [참고자료2](https://www.example.com/ref2) |
-|    3    | [문제3](https://www.example.com/problem3)     | [풀이1](https://www.example.com/solution1) <br> [풀이2](https://www.example.com/solution2) | 다익스트라    |      2       | [참고자료3](https://www.example.com/ref3) |
+|    1    | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/1845)     | [풀이1](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/repeat1/%ED%8F%B0%EC%BC%93%EB%AA%AC_1.py)                         | `해시`           |      1       | [참고자료1](https://www.example.com/ref1) |
+|    2    | [문제2](https://www.example.com/problem2)     | -                                                                   | -     |      -       | [참고자료2](https://www.example.com/ref2) |
+|    3    | [문제3](https://www.example.com/problem3)     | - | -    |      -       | [참고자료3](https://www.example.com/ref3) |
 -->
 
 
@@ -68,7 +68,7 @@
 ## 문제 목록
 | 🆔 번호 | 🔗 문제                                    | ✏️ My 풀이                                                   | 🛠️ 유형   | 🔄 풀이 횟수 | 📚 참고                       | 🌟 난이도 |
 |:-------:|-----------------------------------------------|---------------------------------------------------------------------|---------------|:------------:|-----------------------------------|:--------------:|
-|    1    | [문제1](https://www.example.com/problem1)     | [풀이1](https://www.example.com/solution1)                         | `해시`         |      2       | [참고자료1](https://www.example.com/ref1) | ⭐            |
+|    1    | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)     | [Counter 이용](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/repeat1/%ED%8F%B0%EC%BC%93%EB%AA%AC_1.py)                         | `해시`         |      2       | [Counter](https://github.com/SeoMiYoung/miyoung-zone/issues/23) | ⭐            |
 |    2    | [문제2](https://www.example.com/problem2)     | -                                                                   | 이분 탐색     |      -       | [참고자료2](https://www.example.com/ref2) | ⭐⭐⭐           |
 |    3    | [문제3](https://www.example.com/problem3)     | [풀이1](https://www.example.com/solution1) <br> [풀이2](https://www.example.com/solution2) | 다익스트라    |      -       | [참고자료3](https://www.example.com/ref3) | ⭐⭐⭐⭐          |
 
