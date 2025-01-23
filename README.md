@@ -1,3 +1,19 @@
+## 📂 DFS
+- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 ## Issues
 - [Issues 바로가기](https://github.com/algorithm-zone/miyoung-zone/issues?q=is%3Aissue+is%3Aclosed)
@@ -40,30 +56,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--
 
 ## 문제 목록
 | 🆔 번호 | 🔗 문제                                    | ✏️ 풀이                                                   | 🛠️ 유형   | 🔄 횟수 | 📚 참고                       | 🌟 레벨 |
@@ -71,4 +64,6 @@
 |    1    | [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)     | [Counter](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/repeat1/%ED%8F%B0%EC%BC%93%EB%AA%AC_1.py)                         | `해시`         |      2       | [Counter](https://github.com/SeoMiYoung/miyoung-zone/issues/23) | Level 1            |
 |    2    | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)     | [Counter](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_3.py) <br/> [hash()](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_2.py) <br/> [정렬](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_1.py)                                                                   | `해시`     |      2       | [Counter](https://github.com/SeoMiYoung/miyoung-zone/issues/23) <br/> [시간초과](https://github.com/SeoMiYoung/miyoung-zone/issues/20) <br/> [hash()](https://github.com/SeoMiYoung/miyoung-zone/issues/22)| Level 1           |
 |    3    | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)     | [정렬, zip](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D_3.py) <br> [딕셔너리1](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D_4.py) <br/> [딕셔너리2](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/repeat1/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D_1.py) | `해시`    |      2      | [enumerate()](https://github.com/SeoMiYoung/miyoung-zone/issues/67) <br/> [시간초과가 나지 않은 이유](https://github.com/SeoMiYoung/miyoung-zone/issues/65) <br/> [딕셔너리](https://github.com/SeoMiYoung/miyoung-zone/issues/21) <br/> [startswith()](https://github.com/SeoMiYoung/miyoung-zone/issues/24) <br/> [zip()](https://github.com/SeoMiYoung/miyoung-zone/issues/64) | Level 2          |
+
+-->
 
