@@ -76,7 +76,7 @@
 - [for in 순회](https://github.com/SeoMiYoung/miyoung-zone/issues/62)
 ----------------------------------------------------------------------------------------------------------------------
 ## 💙 문제 풀이 💙
-## 📂 DFS
+#### 📂 DFS
 - [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72)
 
 
