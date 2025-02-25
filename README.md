@@ -1,3 +1,13 @@
+## 💙 문제 풀이 💙
+#### 📂 완전탐색
+- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76)
+- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77)
+
+#### 📂 DFS
+- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72)
+
+----------------------------------------------------------------------------------------------------------------------
+
 ## 🩷 개념 정리 🩷
 #### 📂 알고리즘
 - [누적합 알고리즘 (Prefix Sum Algorithm)](https://github.com/SeoMiYoung/miyoung-zone/issues/17)
@@ -74,14 +84,7 @@
 - [빠르게 입력받기 - input()대신 sys 라이브러리](https://github.com/SeoMiYoung/miyoung-zone/issues/55)
 - [파이썬의 연산자 - 비교연산자, 논리연산자](https://github.com/SeoMiYoung/miyoung-zone/issues/61)
 - [for in 순회](https://github.com/SeoMiYoung/miyoung-zone/issues/62)
-----------------------------------------------------------------------------------------------------------------------
-## 💙 문제 풀이 💙
-#### 📂 완전탐색
-- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76)
-- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77)
 
-#### 📂 DFS
-- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72)
 
 
 
