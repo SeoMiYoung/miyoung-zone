@@ -78,7 +78,8 @@
 ## 💙 문제 풀이 💙
 #### 📂 완전탐색
 - [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76)
-- 
+- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77)
+
 #### 📂 DFS
 - [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72)
 
