@@ -49,6 +49,7 @@
 - [enumerate()](https://github.com/SeoMiYoung/miyoung-zone/issues/67)
 - [strip()](https://github.com/SeoMiYoung/miyoung-zone/issues/70)
 - [replace()](https://github.com/SeoMiYoung/miyoung-zone/issues/71)
+- [permutations, combinations 순열과 조합](https://github.com/SeoMiYoung/miyoung-zone/issues/78)
 
 #### 📂 시간복잡도, 시간초과 
 - [for문 구조에 따른 알고리즘 효율성 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/1)
