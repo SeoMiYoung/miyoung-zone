@@ -66,6 +66,7 @@
 - [리스트와 튜플 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/38)
 - [2차원 배열 채우기](https://github.com/SeoMiYoung/miyoung-zone/issues/39)
 - [집합](https://github.com/SeoMiYoung/miyoung-zone/issues/56)
+- [set()의 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/6)
 - [리스트 컴프리헨션](https://github.com/SeoMiYoung/miyoung-zone/issues/69)
 
 #### 📂 기타
