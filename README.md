@@ -3,7 +3,7 @@
 - [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) `프로그래머스`
 - [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) `프로그래머스`
 - [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) `프로그래머스`
-- [카펫]() `프로그래머스`
+- [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) `프로그래머스`
 - [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) `프로그래머스`
 - [전력망을 둘로 나누기]() `프로그래머스`
 - [모음사전]() `프로그래머스`
