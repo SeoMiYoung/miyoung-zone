@@ -1,12 +1,12 @@
 ## 💙 문제 풀이 💙
 #### 📂 완전탐색
-- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) `프로그래머스`
-- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) `프로그래머스`
-- [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) `프로그래머스`
-- [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) `프로그래머스`
-- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) `프로그래머스`
-- [전력망을 둘로 나누기]() `프로그래머스`
-- [모음사전]() `프로그래머스`
+- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
+- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
+- [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
+- [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
+- [전력망을 둘로 나누기]() `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+- [모음사전]() `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 
 
 ----------------------------------------------------------------------------------------------------------------------
