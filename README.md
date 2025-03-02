@@ -106,8 +106,16 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-### 🧡 SQL 문제풀이 🧡
-
+### 🧡 SQL 개념, 문제풀이 🧡
+<details>
+<summary>📂개념</summary>
+  
+- [`SQLD개념` 1.1 데이터 모델의 이해](https://github.com/SeoMiYoung/miyoung-zone/issues/83)
+- [`SQLD개념` 1.2 엔터티](https://github.com/SeoMiYoung/miyoung-zone/issues/84)
+- [`SQLD개념` 1.3 속성, 1.4 도메인](https://github.com/SeoMiYoung/miyoung-zone/issues/85)
+- [`SQLD개념` 1.5 식별자](https://github.com/SeoMiYoung/miyoung-zone/issues/86)
+- [`SQLD개념` 2.1 정규화](https://github.com/SeoMiYoung/miyoung-zone/issues/87)
+</details>
 
 
 
