@@ -117,6 +117,8 @@
 - [2.1 정규화](https://github.com/SeoMiYoung/miyoung-zone/issues/87)
 - [2.2 관계와 조인의 이해](https://github.com/SeoMiYoung/miyoung-zone/issues/88)
 - [2.4 Null 속성의 이해](https://github.com/SeoMiYoung/miyoung-zone/issues/89)
+- [2.5 본질식별자 VS. 인조식별자](https://github.com/SeoMiYoung/miyoung-zone/issues/90)
+- [3.1 관계형 데이터베이스 개요](https://github.com/SeoMiYoung/miyoung-zone/issues/91)
 </details>
 
 
