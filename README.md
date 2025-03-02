@@ -1,5 +1,7 @@
-## 💙 문제 풀이 💙
-#### 📂 완전탐색
+### 💙 알고리즘 문제풀이 💙
+<details>
+<summary>📂완전탐색</summary>
+  
 - [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 - [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 - [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
@@ -7,12 +9,18 @@
 - [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 - [전력망을 둘로 나누기]() `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [모음사전]() `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
-
+</details>
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## 🩷 개념 정리 🩷
-#### 📂 알고리즘
+### 🧡 SQL 문제풀이 🧡
+
+----------------------------------------------------------------------------------------------------------------------
+
+### 🩷 코테를 위한 파이썬 개념 정리 🩷
+<details>
+<summary>📂알고리즘</summary>
+  
 - [누적합 알고리즘 (Prefix Sum Algorithm)](https://github.com/SeoMiYoung/miyoung-zone/issues/17)
 - [Maximum Subarray Problem 을 푸는 방법: Brute-force Algorithm & Kadane Algorithm](https://github.com/SeoMiYoung/miyoung-zone/issues/19)
 - [그리디 알고리즘(탐욕법, Greedy Algorithm)](https://github.com/SeoMiYoung/miyoung-zone/issues/26)
@@ -28,8 +36,10 @@
 - [[이취코/p208] 다이나믹 프로그래밍](https://github.com/SeoMiYoung/miyoung-zone/issues/58)
 - [[이취코/p217] 1로 만들기, DP](https://github.com/SeoMiYoung/miyoung-zone/issues/59)
 - [모든 경우의 수 구하기](https://github.com/SeoMiYoung/miyoung-zone/issues/66)
+</details>
+<details>
+<summary>📂함수</summary>
 
-#### 📂 함수
 - [대소문자 변환](https://github.com/SeoMiYoung/miyoung-zone/issues/2)
 - [파이썬 내장 함수를 사용해서 정렬하기](https://github.com/SeoMiYoung/miyoung-zone/issues/3)
 - [split()과 split(' ')](https://github.com/SeoMiYoung/miyoung-zone/issues/4)
@@ -52,16 +62,20 @@
 - [strip()](https://github.com/SeoMiYoung/miyoung-zone/issues/70)
 - [replace()](https://github.com/SeoMiYoung/miyoung-zone/issues/71)
 - [permutations, combinations 순열과 조합](https://github.com/SeoMiYoung/miyoung-zone/issues/78)
+</details>
+<details>
+<summary>📂시간복잡도/시간초과</summary>
 
-#### 📂 시간복잡도, 시간초과 
 - [for문 구조에 따른 알고리즘 효율성 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/1)
 - [시간초과 해결 --> map()의 두번째 인자?, set()의 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/6)
 - [[D2/1859] 시간 초과... => 뒤에서부터 접근하는 방식은 어떨까?](https://github.com/SeoMiYoung/miyoung-zone/issues/18)
 - [[hash/완주하지 못한 선수] remove함수로 인한, 파이썬 효율성 테스트 실패](https://github.com/SeoMiYoung/miyoung-zone/issues/20)
 - [복잡도란 무엇일까?](https://github.com/SeoMiYoung/miyoung-zone/issues/25)
 - [[hash/전화번호 목록] 왜 이중 for문을 사용하고도 시간초과가 발생하지 않았을까?](https://github.com/SeoMiYoung/miyoung-zone/issues/65)
+</details>
+<details>
+<summary>📂자료형/클래스</summary>
 
-#### 📂 자료형, 클래스
 - [리스트](https://github.com/SeoMiYoung/miyoung-zone/issues/11)
 - [딕셔너리](https://github.com/SeoMiYoung/miyoung-zone/issues/21)
 - [Counter (collections 모듈에 포함된 클래스)](https://github.com/SeoMiYoung/miyoung-zone/issues/23)
@@ -70,8 +84,10 @@
 - [집합](https://github.com/SeoMiYoung/miyoung-zone/issues/56)
 - [set()의 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/6)
 - [리스트 컴프리헨션](https://github.com/SeoMiYoung/miyoung-zone/issues/69)
+</details>
+<details>
+<summary>📂기타</summary>
 
-#### 📂 기타
 - [base64 인코딩 원리](https://github.com/SeoMiYoung/miyoung-zone/issues/7)
 - [파이썬에서 메모리 재할당이 일어나지 않는 경우](https://github.com/SeoMiYoung/miyoung-zone/issues/13)
 - [깊은복사, 얕은복사](https://github.com/SeoMiYoung/miyoung-zone/issues/14)
@@ -90,6 +106,10 @@
 - [파이썬의 연산자 - 비교연산자, 논리연산자](https://github.com/SeoMiYoung/miyoung-zone/issues/61)
 - [for in 순회](https://github.com/SeoMiYoung/miyoung-zone/issues/62)
 - [지역변수, 전역변수, nonlocal, global](https://github.com/SeoMiYoung/miyoung-zone/issues/81)
+</details>
+
+
+
 
 
 
