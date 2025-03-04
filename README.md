@@ -128,6 +128,8 @@
 - [3.5 GROUP BY절, DISTINCT, HAVING절](https://github.com/SeoMiYoung/miyoung-zone/issues/98)
 - [3.7 조인](https://github.com/SeoMiYoung/miyoung-zone/issues/99)
 - [테이블 병합 - (1) JOIN, (2) UNION](https://github.com/SeoMiYoung/miyoung-zone/issues/100)
+- [BETWEEN A AND B - 문자열의 대소 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/101)
+- [외래키(FK), KEY의 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/102)
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------
