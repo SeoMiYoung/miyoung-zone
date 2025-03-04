@@ -119,6 +119,8 @@
 - [2.4 Null 속성의 이해](https://github.com/SeoMiYoung/miyoung-zone/issues/89)
 - [2.5 본질식별자 VS. 인조식별자](https://github.com/SeoMiYoung/miyoung-zone/issues/90)
 - [3.1 관계형 데이터베이스 개요](https://github.com/SeoMiYoung/miyoung-zone/issues/91)
+- [3.2 SELECT문](https://github.com/SeoMiYoung/miyoung-zone/issues/92)
+- [3.3 문자열을 다루는 SQL함수](https://github.com/SeoMiYoung/miyoung-zone/issues/93)
 </details>
 
 
