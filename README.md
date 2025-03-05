@@ -130,6 +130,11 @@
 - [테이블 병합 - (1) JOIN, (2) UNION](https://github.com/SeoMiYoung/miyoung-zone/issues/100)
 - [BETWEEN A AND B - 문자열의 대소 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/101)
 - [외래키(FK), KEY의 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/102)
+- [교차 엔터티](https://github.com/SeoMiYoung/miyoung-zone/issues/103)
+- [4.1 서브쿼리](https://github.com/SeoMiYoung/miyoung-zone/issues/104)
+- [TO_CHAR()과 DATE가 보통 함께 사용되는 이유](https://github.com/SeoMiYoung/miyoung-zone/issues/105)
+- [4.1 중첩 서브쿼리](https://github.com/SeoMiYoung/miyoung-zone/issues/106)
+- [4.3 그룹함수](https://github.com/SeoMiYoung/miyoung-zone/issues/107)
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------
