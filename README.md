@@ -135,6 +135,17 @@
 - [TO_CHAR()과 DATE가 보통 함께 사용되는 이유](https://github.com/SeoMiYoung/miyoung-zone/issues/105)
 - [4.1 중첩 서브쿼리](https://github.com/SeoMiYoung/miyoung-zone/issues/106)
 - [4.3 그룹함수](https://github.com/SeoMiYoung/miyoung-zone/issues/107)
+- [4.4 윈도우 함수](https://github.com/SeoMiYoung/miyoung-zone/issues/109)
+- [4.5 Top N 쿼리](https://github.com/SeoMiYoung/miyoung-zone/issues/108)
+- [4.6 계층형 질의와 셀프 조인](https://github.com/SeoMiYoung/miyoung-zone/issues/110)
+- [4.7 PIVOT절과 UNPIVOT절](https://github.com/SeoMiYoung/miyoung-zone/issues/111)
+- [4.8 정규표현식](https://github.com/SeoMiYoung/miyoung-zone/issues/112)
+- [트랜잭션, COMMIT, ROLLBACK, SAVEPOINT](https://github.com/SeoMiYoung/miyoung-zone/issues/113)
+- [5.3 DDL (참조 무결성 제약조건), DCL](https://github.com/SeoMiYoung/miyoung-zone/issues/114)
+- [5.3 DDL - DROP / TRUNCATE / DELETE의 차이](https://github.com/SeoMiYoung/miyoung-zone/issues/115)
+- [CONSTRAINT(제약 조건)](https://github.com/SeoMiYoung/miyoung-zone/issues/116)
+- [INDEX](https://github.com/SeoMiYoung/miyoung-zone/issues/117)
+- [UNDO, REDO](https://github.com/SeoMiYoung/miyoung-zone/issues/118)
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------
