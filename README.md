@@ -98,7 +98,7 @@
 <summary>📂완전탐색(⭐⭐⭐)</summary>
   
 > 보통 간단한 문제 --> 반복문 활용 <br/>
-> 복잡한 문제 --> 재귀 활용(물론 재귀 외의 방법도 있긴 함)
+> 복잡한 문제 --> 재귀(백트래킹) 활용  // 물론 재귀 외의 방법도 있긴 함
   
 - [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
 - [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
