@@ -108,7 +108,33 @@
 - [전력망을 둘로 나누기](https://github.com/SeoMiYoung/miyoung-zone/issues/82) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
 - [모음사전](https://github.com/SeoMiYoung/miyoung-zone/issues/119) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 </details>
-
+<details>
+<summary>📂DFS/BFS(⭐⭐⭐)</summary>
+</details>
+<details>
+<summary>📂스택/큐(⭐⭐)</summary>
+</details>
+<details>
+<summary>📂정렬(⭐⭐⭐)</summary>
+</details>
+<details>
+<summary>📂해시(⭐⭐⭐)</summary>
+</details>
+<details>
+<summary>📂힙(⭐⭐)</summary>
+</details>
+<details>
+<summary>📂이분탐색(⭐)</summary>
+</details>
+<details>
+<summary>📂DP(⭐)</summary>
+</details>
+<details>
+<summary>📂Greedy 탐욕법(⭐)</summary>
+</details>
+<details>
+<summary>📂그래프(⭐)</summary>
+</details>
 ----------------------------------------------------------------------------------------------------------------------
 
 ### 🧡 SQL 관련 개념 🧡
