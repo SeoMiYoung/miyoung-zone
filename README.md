@@ -106,7 +106,7 @@
 - [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 - [전력망을 둘로 나누기](https://github.com/SeoMiYoung/miyoung-zone/issues/82) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
-- [모음사전]() `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [모음사전](https://github.com/SeoMiYoung/miyoung-zone/issues/119) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------
