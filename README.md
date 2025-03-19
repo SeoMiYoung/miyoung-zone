@@ -100,16 +100,18 @@
 > 보통 간단한 문제 --> 반복문 활용 <br/>
 > 복잡한 문제 --> 재귀(백트래킹) 활용  // 물론 재귀 외의 방법도 있긴 함
   
-- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491)
-- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840)
-- [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42839)
-- [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
-- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
-- [전력망을 둘로 나누기](https://github.com/SeoMiYoung/miyoung-zone/issues/82) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
-- [모음사전](https://github.com/SeoMiYoung/miyoung-zone/issues/119) `프로그래머스` [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491) `아이디어 문제`
+- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840) `enumerate()`
+- [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42839) `itertools의 permutations` `백트래킹` `DFS`
+- [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946) `DFS`
+- [전력망을 둘로 나누기](https://github.com/SeoMiYoung/miyoung-zone/issues/82) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971) `BFS`
+- [모음사전](https://github.com/SeoMiYoung/miyoung-zone/issues/119) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512) `DFS`
 </details>
 <details>
 <summary>📂정렬(⭐⭐⭐)</summary>
+
+- [K번째수](https://github.com/SeoMiYoung/miyoung-zone/issues/120) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42748) `파이썬 정렬 내장함수` `리스트 슬라이싱`
 </details>
 <details>
 <summary>📂해시(⭐⭐⭐)</summary>
