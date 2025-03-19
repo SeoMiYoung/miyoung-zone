@@ -45,6 +45,7 @@
 - [strip()](https://github.com/SeoMiYoung/miyoung-zone/issues/70)
 - [replace()](https://github.com/SeoMiYoung/miyoung-zone/issues/71)
 - [permutations, combinations 순열과 조합](https://github.com/SeoMiYoung/miyoung-zone/issues/78)
+- [단순정렬 VS. cmp_to_key() 정렬 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/122)
 </details>
 <details>
 <summary>📂시간복잡도/시간초과</summary>
@@ -112,6 +113,7 @@
 <summary>📂정렬(⭐⭐⭐)</summary>
 
 - [K번째수](https://github.com/SeoMiYoung/miyoung-zone/issues/120) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42748) `파이썬 정렬 내장함수` `리스트 슬라이싱`
+- [가장 큰 수](https://github.com/SeoMiYoung/miyoung-zone/issues/121) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42746) `cmp_to_key()`
 </details>
 <details>
 <summary>📂해시(⭐⭐⭐)</summary>
