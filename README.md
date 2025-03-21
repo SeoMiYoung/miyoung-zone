@@ -114,6 +114,8 @@
 
 - [K번째수](https://github.com/SeoMiYoung/miyoung-zone/issues/120) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42748) `파이썬 정렬 내장함수` `리스트 슬라이싱`
 - [가장 큰 수](https://github.com/SeoMiYoung/miyoung-zone/issues/121) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42746) `cmp_to_key()`
+- [H-index](https://github.com/SeoMiYoung/miyoung-zone/issues/123) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- [그 외 정렬]()
 </details>
 <details>
 <summary>📂해시(⭐⭐⭐)</summary>
