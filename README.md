@@ -136,7 +136,7 @@
 - [기능개발](https://github.com/SeoMiYoung/miyoung-zone/issues/126) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42586) `deque() 관련 함수 숙지`, `큐를 왜 사용해야 하는지 생각해 볼 수 있었음`
 - [올바른 괄호](https://github.com/SeoMiYoung/miyoung-zone/issues/127) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12909) `스택(파이썬에서는 list사용)`
 - [프로세스](https://github.com/SeoMiYoung/miyoung-zone/issues/128) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42587) `deque()`, `generator expression`
-- [다리를 지나는 트럭]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
+- [다리를 지나는 트럭](https://github.com/SeoMiYoung/miyoung-zone/issues/130) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42583)
 - [주식가격]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 </details>
 <details>
