@@ -137,7 +137,7 @@
 - [올바른 괄호](https://github.com/SeoMiYoung/miyoung-zone/issues/127) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12909) `스택(파이썬에서는 list사용)`
 - [프로세스](https://github.com/SeoMiYoung/miyoung-zone/issues/128) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42587) `deque()`, `generator expression`
 - [다리를 지나는 트럭](https://github.com/SeoMiYoung/miyoung-zone/issues/130) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42583) `deque()`, `시간 초과 주의`
-- [주식가격]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [주식가격](https://github.com/SeoMiYoung/miyoung-zone/issues/131) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
 </details>
 <details>
 <summary>📂DP(⭐)</summary>
