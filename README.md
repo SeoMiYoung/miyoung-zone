@@ -91,6 +91,7 @@
 - [파이썬의 연산자 - 비교연산자, 논리연산자](https://github.com/SeoMiYoung/miyoung-zone/issues/61)
 - [for in 순회](https://github.com/SeoMiYoung/miyoung-zone/issues/62)
 - [지역변수, 전역변수, nonlocal, global](https://github.com/SeoMiYoung/miyoung-zone/issues/81)
+- [generator expression](https://github.com/SeoMiYoung/miyoung-zone/issues/129)
 </details>
 
 ----------------------------------------------------------------------------------------------------------------------
