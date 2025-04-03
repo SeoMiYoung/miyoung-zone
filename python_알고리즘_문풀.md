@@ -30,7 +30,7 @@
 <details>
 <summary>📂DFS/BFS(⭐⭐⭐)</summary>
 
-- [타겟 넘버](https://github.com/SeoMiYoung/miyoung-zone/issues/132) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43165) `DFS(재귀)` `DFS(스택)` `BFS(큐)`
+- [타겟 넘버](https://github.com/SeoMiYoung/miyoung-zone/issues/132) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43165) `DFS(재귀)` `DFS(스택)` `BFS(큐)` --> 3가지 풀이 존재
 </details>
 <details>
 <summary>📂스택/큐(⭐⭐)</summary>
