@@ -1,6 +1,3 @@
-<details>
-<summary>📂SQLD 개념</summary>
-  
 - [1.1 데이터 모델의 이해](https://github.com/SeoMiYoung/miyoung-zone/issues/83)
 - [1.2 엔터티](https://github.com/SeoMiYoung/miyoung-zone/issues/84)
 - [1.3 속성, 1.4 도메인](https://github.com/SeoMiYoung/miyoung-zone/issues/85)
@@ -37,4 +34,4 @@
 - [CONSTRAINT(제약 조건)](https://github.com/SeoMiYoung/miyoung-zone/issues/116)
 - [INDEX](https://github.com/SeoMiYoung/miyoung-zone/issues/117)
 - [UNDO, REDO](https://github.com/SeoMiYoung/miyoung-zone/issues/118)
-</details>
+
