@@ -26,6 +26,12 @@
 </details>
 <details>
 <summary>📂이분탐색(⭐)</summary>
+
+- [기본 이진탐색 구현]() [<문제 링크>](https://www.youtube.com/watch?v=94RC-DsGMLo) `이취코 교재 189p`
+- [값이 특정 범위에 속하는 데이터 개수 구하기]() [<문제 링크>](https://www.youtube.com/watch?v=94RC-DsGMLo) `bisect`
+- [떡볶이 떡 만들기]() [<문제 링크>](https://www.youtube.com/watch?v=94RC-DsGMLo) `이취코 교재 p201`
+- [입국심사]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+- [징검다리]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
 </details>
 <details>
 <summary>📂DFS/BFS(⭐⭐⭐)</summary>
