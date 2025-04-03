@@ -1,65 +1,16 @@
-> `참고`: 혼자 보기 위한 용이며, 따라서 내용이 잘 정리되지 않았을 수 있음.
 
-### 🩷 코테를 위한 파이썬 개념 정리 🩷
+
+## 📚 Contents
+> `참고`: 혼자 보기 위한 용이며, 따라서 내용이 잘 정리되지 않았을 수 있음
+
+### 1. 코딩테스트
 - 🔗 [코딩테스트를 위한 python 개념](./python_코딩테스트_개념.md)
+- 🔗 [알고리즘 문제풀이 with python]()
 
 ----------------------------------------------------------------------------------------------------------------------
 
 ### 💙 알고리즘 문제풀이 💙
-<details>
-<summary>📂완전탐색(⭐⭐⭐)</summary>
 
-> 💡완전탐색 문제는 모든 경우를 다 살펴봐야 풀 수 있는 문제이다!  
-> 보통 간단한 문제 --> 반복문 활용 <br/>
-> 복잡한 문제 --> 재귀(백트래킹) 활용  // 물론 재귀 외의 방법도 있긴 함
-  
-- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491) `아이디어 문제`
-- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840) `enumerate()`
-- [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42839) `itertools의 permutations` `백트래킹` `DFS`
-- [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
-- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946) `DFS`
-- [전력망을 둘로 나누기](https://github.com/SeoMiYoung/miyoung-zone/issues/82) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971) `BFS`
-- [모음사전](https://github.com/SeoMiYoung/miyoung-zone/issues/119) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512) `DFS`
-</details>
-<details>
-<summary>📂정렬(⭐⭐⭐)</summary>
-
-- [K번째수](https://github.com/SeoMiYoung/miyoung-zone/issues/120) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42748) `파이썬 정렬 내장함수` `리스트 슬라이싱`
-- [가장 큰 수](https://github.com/SeoMiYoung/miyoung-zone/issues/121) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42746) `cmp_to_key()`
-- [H-index](https://github.com/SeoMiYoung/miyoung-zone/issues/123) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
-- [그 외 정렬 알고리즘](https://github.com/SeoMiYoung/miyoung-zone/issues/51)
-</details>
-<details>
-<summary>📂해시(⭐⭐⭐)</summary>
-</details>
-<details>
-<summary>📂이분탐색(⭐)</summary>
-</details>
-<details>
-<summary>📂DFS/BFS(⭐⭐⭐)</summary>
-</details>
-<details>
-<summary>📂스택/큐(⭐⭐)</summary>
-  
-- [같은 숫자는 싫어](https://github.com/SeoMiYoung/miyoung-zone/issues/124) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12906) `deque()`
-- [기능개발](https://github.com/SeoMiYoung/miyoung-zone/issues/126) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42586) `deque() 관련 함수 숙지`, `큐를 왜 사용해야 하는지 생각해 볼 수 있었음`
-- [올바른 괄호](https://github.com/SeoMiYoung/miyoung-zone/issues/127) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12909) `스택(파이썬에서는 list사용)`
-- [프로세스](https://github.com/SeoMiYoung/miyoung-zone/issues/128) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42587) `deque()`, `generator expression`
-- [다리를 지나는 트럭](https://github.com/SeoMiYoung/miyoung-zone/issues/130) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42583) `deque()`, `시간 초과 주의`
-- [주식가격](https://github.com/SeoMiYoung/miyoung-zone/issues/131) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42584) `스택을 왜 사용해야 하는지 생각해 볼 수 있었음` `어려웠음`
-</details>
-<details>
-<summary>📂DP(⭐)</summary>
-</details>
-<details>
-<summary>📂힙(⭐⭐)</summary>
-</details>
-<details>
-<summary>📂Greedy 탐욕법(⭐)</summary>
-</details>
-<details>
-<summary>📂그래프(⭐)</summary>
-</details>
 
 ----------------------------------------------------------------------------------------------------------------------
 
