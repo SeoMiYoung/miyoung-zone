@@ -38,7 +38,7 @@
 
 - [타겟 넘버](https://github.com/SeoMiYoung/miyoung-zone/issues/132) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43165) `DFS(재귀)` `DFS(스택)` `BFS(큐)` --> 3가지 풀이 존재
 - [네트워크](https://github.com/SeoMiYoung/miyoung-zone/issues/133) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43162#) `나는 BFS로 품`
-- [게임 맵 최단거리](https://github.com/SeoMiYoung/miyoung-zone/issues/134) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1844) `visited를 사용하지 않은 BFS`
+- [게임 맵 최단거리](https://github.com/SeoMiYoung/miyoung-zone/issues/134) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1844) `visited를 사용하지 않은 BFS` `최단거리 구하기`
 </details>
 <details>
 <summary>📂스택/큐(⭐⭐)</summary>
