@@ -64,4 +64,4 @@
 --------------------------------------------------------------------
 
 ### <백준 - 삼성 SW 역량 테스트 기출 문제>
-- [13460번/구슬 탈출 2]() [<문제 링크>](https://www.acmicpc.net/problem/13460) `완전 어려운 BFS...`
+- [13460번/구슬 탈출 2](https://github.com/SeoMiYoung/miyoung-zone/issues/136) [<문제 링크>](https://www.acmicpc.net/problem/13460) `완전 어려운 BFS...`
