@@ -9,6 +9,7 @@
 - [DFS](https://github.com/SeoMiYoung/miyoung-zone/issues/44)
 - [BFS](https://github.com/SeoMiYoung/miyoung-zone/issues/46)
 - [BFS와 DFS의 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/47)
+- [BFS와 DFS의 visited 처리](https://github.com/SeoMiYoung/miyoung-zone/issues/135)
 - [정렬 알고리즘 모음](https://github.com/SeoMiYoung/miyoung-zone/issues/51)
 - [이진탐색 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/53)
 - [이진탐색 라이브러리 bisect](https://github.com/SeoMiYoung/miyoung-zone/issues/54)
