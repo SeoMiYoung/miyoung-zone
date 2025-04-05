@@ -66,7 +66,7 @@
 ### <백준 - 삼성 SW 역량 테스트 기출 문제>
 - [13460번/구슬 탈출 2](https://github.com/SeoMiYoung/miyoung-zone/issues/136) [<문제 링크>](https://www.acmicpc.net/problem/13460) `완전 어려운 BFS...`
 - ⭐ [12100번/2048](https://github.com/SeoMiYoung/miyoung-zone/issues/137) [<문제 링크>](https://www.acmicpc.net/problem/12100) `리스트 컴프리핸션 활용` `깊은 복사` `[::-1]로 뒤집기` `DFS`
-- [3190번/뱀]()
+- [3190번/뱀](https://github.com/SeoMiYoung/miyoung-zone/issues/138) [<문제 링크>](https://www.acmicpc.net/problem/3190) `단순 구현` `deque`
 - ⭐ [14503번/로봇청소기]()
 - [14502번/연구소]()
 - ⭐ [14888번/연산자 끼워넣기]()
