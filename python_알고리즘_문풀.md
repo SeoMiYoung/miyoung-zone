@@ -68,7 +68,7 @@
 - ⭐ [12100번/2048](https://github.com/SeoMiYoung/miyoung-zone/issues/137) [<문제 링크>](https://www.acmicpc.net/problem/12100) `리스트 컴프리핸션 활용` `깊은 복사` `[::-1]로 뒤집기` `DFS`
 - [3190번/뱀](https://github.com/SeoMiYoung/miyoung-zone/issues/138) [<문제 링크>](https://www.acmicpc.net/problem/3190) `단순 구현` `deque`
 - ⭐ [14503번/로봇청소기]()
-- [14502번/연구소]() [<문제 링크>](https://www.acmicpc.net/problem/14502)
+- [14502번/연구소](https://github.com/SeoMiYoung/miyoung-zone/issues/140) [<문제 링크>](https://www.acmicpc.net/problem/14502)
 - ⭐ [14888번/연산자 끼워넣기]()
 - [14889번/스타트와 링크]()
 - ⭐ [15683번/감시]()
