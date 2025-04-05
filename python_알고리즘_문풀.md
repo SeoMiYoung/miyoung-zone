@@ -65,18 +65,19 @@
 
 ### <백준 - 삼성 SW 역량 테스트 기출 문제>
 - [13460번/구슬 탈출 2](https://github.com/SeoMiYoung/miyoung-zone/issues/136) [<문제 링크>](https://www.acmicpc.net/problem/13460) `완전 어려운 BFS...`
-- ⭐ [12100번/2048](https://github.com/SeoMiYoung/miyoung-zone/issues/137) [<문제 링크>](https://www.acmicpc.net/problem/12100) `리스트 컴프리핸션 활용` `깊은 복사` `[::-1]로 뒤집기` `DFS`
+- [12100번/2048](https://github.com/SeoMiYoung/miyoung-zone/issues/137) [<문제 링크>](https://www.acmicpc.net/problem/12100) `리스트 컴프리핸션 활용` `깊은 복사` `[::-1]로 뒤집기` `DFS`
 - [3190번/뱀](https://github.com/SeoMiYoung/miyoung-zone/issues/138) [<문제 링크>](https://www.acmicpc.net/problem/3190) `단순 구현` `deque`
-- ⭐ [14503번/로봇청소기]()
+- [14503번/로봇청소기]()
 - [14502번/연구소](https://github.com/SeoMiYoung/miyoung-zone/issues/140) [<문제 링크>](https://www.acmicpc.net/problem/14502) `DFS와 BFS 모두 사용한 문제` `조합을 DFS로 구현하기` `리스트.count(찾는거)`
-- ⭐ [14888번/연산자 끼워넣기]()
+- [14888번/연산자 끼워넣기]()
 - [14889번/스타트와 링크]()
-- ⭐ [15683번/감시]()
-- ⭐ [16236번/아기 상어]()
+- [15683번/감시]()
+- [16236번/아기 상어]()
 - [15684번/사다리 조작]()
 - [14500번/테트로미노]()
 - [21610번/마법사 상어와 비바라기]()
 - [19236번/청소년 상어]()
 - [17825번/주사위 윷놀이]()
+- [15686번/치킨 배달]()
 
 
