@@ -68,8 +68,9 @@
 - [13460번/구슬 탈출 2](https://github.com/SeoMiYoung/miyoung-zone/issues/136) [<문제 링크>](https://www.acmicpc.net/problem/13460) `완전 어려운 BFS...`
 - [12100번/2048](https://github.com/SeoMiYoung/miyoung-zone/issues/137) [<문제 링크>](https://www.acmicpc.net/problem/12100) `리스트 컴프리핸션 활용` `깊은 복사` `[::-1]로 뒤집기` `DFS`
 - [14502번/연구소](https://github.com/SeoMiYoung/miyoung-zone/issues/140) [<문제 링크>](https://www.acmicpc.net/problem/14502) `DFS와 BFS 모두 사용한 문제` `조합을 DFS로 구현하기` `리스트.count(찾는거)`
+- [16236번/아기 상어](https://github.com/SeoMiYoung/miyoung-zone/issues/141) [<문제 링크>](https://www.acmicpc.net/problem/16236)
 - [15683번/감시]()
-- [16236번/아기 상어]()
+
   
 #### 2순위. 삼성 기출 자주 출제 + 구현 난이도 상
 - [3190번/뱀](https://github.com/SeoMiYoung/miyoung-zone/issues/138) [<문제 링크>](https://www.acmicpc.net/problem/3190) `단순 구현` `deque`
