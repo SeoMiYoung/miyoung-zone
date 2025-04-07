@@ -9,7 +9,7 @@
 - `[1️⃣]` [15683번/감시](https://github.com/SeoMiYoung/miyoung-zone/issues/142) [<문제 링크>](https://www.acmicpc.net/problem/15683) `조합을 dfs로 구현(복잡함)`
 - `[1️⃣]` [3190번/뱀](https://github.com/SeoMiYoung/miyoung-zone/issues/138) [<문제 링크>](https://www.acmicpc.net/problem/3190) `단순 구현` `deque`
 - `[1️⃣]` [14503번/로봇청소기](https://github.com/SeoMiYoung/miyoung-zone/issues/143) [<문제 링크>](https://www.acmicpc.net/problem/14503) `단순 시뮬레이션(근데 나는 BFS로 품...ㅎ)`
-- `[]` [14500번/테트로미노]()
+- `[1️⃣]` [14500번/테트로미노](https://github.com/SeoMiYoung/miyoung-zone/issues/144) [<문제 링크>](https://www.acmicpc.net/problem/14500) `DFS+예외처리` `어렵다..`
 - `[]` [14888번/연산자 끼워넣기]()
 - `[]` [14889번/스타트와 링크]()
 
