@@ -1,5 +1,4 @@
-<details>
-<summary>📂알고리즘</summary>
+## 📂알고리즘
   
 - [누적합 알고리즘 (Prefix Sum Algorithm)](https://github.com/SeoMiYoung/miyoung-zone/issues/17)
 - [Maximum Subarray Problem 을 푸는 방법: Brute-force Algorithm & Kadane Algorithm](https://github.com/SeoMiYoung/miyoung-zone/issues/19)
@@ -17,10 +16,8 @@
 - [[이취코/p208] 다이나믹 프로그래밍](https://github.com/SeoMiYoung/miyoung-zone/issues/58)
 - [[이취코/p217] 1로 만들기, DP](https://github.com/SeoMiYoung/miyoung-zone/issues/59)
 - [모든 경우의 수 구하기](https://github.com/SeoMiYoung/miyoung-zone/issues/66)
-</details>
-<details>
-<summary>📂함수</summary>
 
+## 📂함수
 - [대소문자 변환](https://github.com/SeoMiYoung/miyoung-zone/issues/2)
 - [파이썬 내장 함수를 사용해서 정렬하기](https://github.com/SeoMiYoung/miyoung-zone/issues/3)
 - [split()과 split(' ')](https://github.com/SeoMiYoung/miyoung-zone/issues/4)
@@ -45,20 +42,17 @@
 - [permutations, combinations 순열과 조합](https://github.com/SeoMiYoung/miyoung-zone/issues/78)
 - [단순정렬 VS. cmp_to_key() 정렬 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/122)
 - [math.ceil(x), math.floor(x), math.round(x)](https://github.com/SeoMiYoung/miyoung-zone/issues/125)
-</details>
-<details>
-<summary>📂시간복잡도/시간초과</summary>
 
+
+## 📂시간복잡도/시간초과
 - [for문 구조에 따른 알고리즘 효율성 비교](https://github.com/SeoMiYoung/miyoung-zone/issues/1)
 - [시간초과 해결 --> map()의 두번째 인자?, set()의 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/6)
 - [[D2/1859] 시간 초과... => 뒤에서부터 접근하는 방식은 어떨까?](https://github.com/SeoMiYoung/miyoung-zone/issues/18)
 - [[hash/완주하지 못한 선수] remove함수로 인한, 파이썬 효율성 테스트 실패](https://github.com/SeoMiYoung/miyoung-zone/issues/20)
 - [복잡도란 무엇일까?](https://github.com/SeoMiYoung/miyoung-zone/issues/25)
 - [[hash/전화번호 목록] 왜 이중 for문을 사용하고도 시간초과가 발생하지 않았을까?](https://github.com/SeoMiYoung/miyoung-zone/issues/65)
-</details>
-<details>
-<summary>📂자료형/클래스</summary>
 
+## 📂자료형/클래스
 - [리스트](https://github.com/SeoMiYoung/miyoung-zone/issues/11)
 - [딕셔너리](https://github.com/SeoMiYoung/miyoung-zone/issues/21)
 - [Counter (collections 모듈에 포함된 클래스)](https://github.com/SeoMiYoung/miyoung-zone/issues/23)
@@ -67,10 +61,8 @@
 - [집합](https://github.com/SeoMiYoung/miyoung-zone/issues/56)
 - [set()의 개념](https://github.com/SeoMiYoung/miyoung-zone/issues/6)
 - [리스트 컴프리헨션](https://github.com/SeoMiYoung/miyoung-zone/issues/69)
-</details>
-<details>
-<summary>📂기타</summary>
 
+## 📂기타
 - [base64 인코딩 원리](https://github.com/SeoMiYoung/miyoung-zone/issues/7)
 - [파이썬에서 메모리 재할당이 일어나지 않는 경우](https://github.com/SeoMiYoung/miyoung-zone/issues/13)
 - [깊은복사, 얕은복사](https://github.com/SeoMiYoung/miyoung-zone/issues/14)
@@ -91,4 +83,4 @@
 - [지역변수, 전역변수, nonlocal, global](https://github.com/SeoMiYoung/miyoung-zone/issues/81)
 - [generator expression](https://github.com/SeoMiYoung/miyoung-zone/issues/129)
 - [단락 평가](https://github.com/SeoMiYoung/miyoung-zone/issues/139)
-</details>
+
