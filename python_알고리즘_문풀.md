@@ -7,38 +7,38 @@
 > 보통 간단한 문제 --> 반복문 활용 <br/>
 > 복잡한 문제 --> 재귀(백트래킹) 활용  // 물론 재귀 외의 방법도 있긴 함
   
-- [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491) `아이디어 문제`
-- [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840) `enumerate()`
-- [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42839) `itertools의 permutations` `백트래킹` `DFS`
-- [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
-- [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946) `DFS`
-- [전력망을 둘로 나누기](https://github.com/SeoMiYoung/miyoung-zone/issues/82) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971) `BFS`
-- [모음사전](https://github.com/SeoMiYoung/miyoung-zone/issues/119) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512) `DFS`
+- `[1️⃣]` [최소직사각형](https://github.com/SeoMiYoung/miyoung-zone/issues/76) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86491) `아이디어 문제`
+- `[1️⃣]` [모의고사](https://github.com/SeoMiYoung/miyoung-zone/issues/77) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42840) `enumerate()`
+- `[1️⃣]` [소수찾기](https://github.com/SeoMiYoung/miyoung-zone/issues/79) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42839) `itertools의 permutations` `백트래킹` `DFS`
+- `[1️⃣]` [카펫](https://github.com/SeoMiYoung/miyoung-zone/issues/80) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- `[1️⃣2️⃣]` [피로도](https://github.com/SeoMiYoung/miyoung-zone/issues/72) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87946) `DFS`
+- `[1️⃣]` [전력망을 둘로 나누기](https://github.com/SeoMiYoung/miyoung-zone/issues/82) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/86971) `BFS`
+- `[1️⃣]` [모음사전](https://github.com/SeoMiYoung/miyoung-zone/issues/119) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/84512) `DFS`
 
 ### 📂정렬
-- [K번째수](https://github.com/SeoMiYoung/miyoung-zone/issues/120) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42748) `파이썬 정렬 내장함수` `리스트 슬라이싱`
-- [가장 큰 수](https://github.com/SeoMiYoung/miyoung-zone/issues/121) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42746) `cmp_to_key()`
-- [H-index](https://github.com/SeoMiYoung/miyoung-zone/issues/123) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
-- [그 외 정렬 알고리즘](https://github.com/SeoMiYoung/miyoung-zone/issues/51)
+- `[1️⃣]` [K번째수](https://github.com/SeoMiYoung/miyoung-zone/issues/120) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42748) `파이썬 정렬 내장함수` `리스트 슬라이싱`
+- `[1️⃣]` [가장 큰 수](https://github.com/SeoMiYoung/miyoung-zone/issues/121) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42746) `cmp_to_key()`
+- `[1️⃣]` [H-index](https://github.com/SeoMiYoung/miyoung-zone/issues/123) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
+- `[1️⃣]` [그 외 정렬 알고리즘](https://github.com/SeoMiYoung/miyoung-zone/issues/51)
 
 ### 📂해시
 
 ### 📂이분탐색
-- [입국심사]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
-- [징검다리]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
+- `[]` [입국심사]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+- `[]`[징검다리]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
 
 ### 📂DFS/BFS
-- [타겟 넘버](https://github.com/SeoMiYoung/miyoung-zone/issues/132) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43165) `DFS(재귀)` `DFS(스택)` `BFS(큐)` --> 3가지 풀이 존재
-- [네트워크](https://github.com/SeoMiYoung/miyoung-zone/issues/133) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43162#) `나는 BFS로 품`
-- [게임 맵 최단거리](https://github.com/SeoMiYoung/miyoung-zone/issues/134) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1844) `visited를 사용하지 않은 BFS` `최단거리 구하기`
+- `[1️⃣]` [타겟 넘버](https://github.com/SeoMiYoung/miyoung-zone/issues/132) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43165) `DFS(재귀)` `DFS(스택)` `BFS(큐)` --> 3가지 풀이 존재
+- `[1️⃣]` [네트워크](https://github.com/SeoMiYoung/miyoung-zone/issues/133) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43162#) `나는 BFS로 품`
+- `[1️⃣]` [게임 맵 최단거리](https://github.com/SeoMiYoung/miyoung-zone/issues/134) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1844) `visited를 사용하지 않은 BFS` `최단거리 구하기`
 
 ### 📂스택/큐
-- [같은 숫자는 싫어](https://github.com/SeoMiYoung/miyoung-zone/issues/124) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12906) `deque()`
-- [기능개발](https://github.com/SeoMiYoung/miyoung-zone/issues/126) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42586) `deque() 관련 함수 숙지`, `큐를 왜 사용해야 하는지 생각해 볼 수 있었음`
-- [올바른 괄호](https://github.com/SeoMiYoung/miyoung-zone/issues/127) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12909) `스택(파이썬에서는 list사용)`
-- [프로세스](https://github.com/SeoMiYoung/miyoung-zone/issues/128) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42587) `deque()`, `generator expression`
-- [다리를 지나는 트럭](https://github.com/SeoMiYoung/miyoung-zone/issues/130) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42583) `deque()`, `시간 초과 주의`
-- [주식가격](https://github.com/SeoMiYoung/miyoung-zone/issues/131) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42584) `스택을 왜 사용해야 하는지 생각해 볼 수 있었음` `어려웠음`
+- `[1️⃣]` [같은 숫자는 싫어](https://github.com/SeoMiYoung/miyoung-zone/issues/124) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12906) `deque()`
+- `[1️⃣]` [기능개발](https://github.com/SeoMiYoung/miyoung-zone/issues/126) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42586) `deque() 관련 함수 숙지`, `큐를 왜 사용해야 하는지 생각해 볼 수 있었음`
+- `[1️⃣]` [올바른 괄호](https://github.com/SeoMiYoung/miyoung-zone/issues/127) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12909) `스택(파이썬에서는 list사용)`
+- `[1️⃣]` [프로세스](https://github.com/SeoMiYoung/miyoung-zone/issues/128) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42587) `deque()`, `generator expression`
+- `[1️⃣]` [다리를 지나는 트럭](https://github.com/SeoMiYoung/miyoung-zone/issues/130) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42583) `deque()`, `시간 초과 주의`
+- `[1️⃣]` [주식가격](https://github.com/SeoMiYoung/miyoung-zone/issues/131) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42584) `스택을 왜 사용해야 하는지 생각해 볼 수 있었음` `어려웠음`
 
 ### 📂DP</summary>
 
