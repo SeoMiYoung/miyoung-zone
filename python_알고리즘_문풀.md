@@ -1,4 +1,7 @@
-### <프로그래머스 - 알고리즘 고득점 KIT>
+## [코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+> 반복 체크: `[1️⃣2️⃣...]`
+> > 몇 번 풀었는지 체크한다.
+
 <details>
 <summary>📂완전탐색(⭐⭐⭐)</summary>
 
