@@ -13,10 +13,17 @@
 - `[1️⃣]` [14888번/연산자 끼워넣기](https://github.com/SeoMiYoung/miyoung-zone/issues/145) [<문제 링크>](https://www.acmicpc.net/problem/14888) `DFS` `자잘한 조건만 빼면, 크게 안어려움`
 - `[]` [14889번/스타트와 링크]()
 
-  ----------------------------------------------------> 여기까지 목욜까지 반복
-
 #### <시간 남으면>
 - [15684번/사다리 조작]()
 - [21610번/마법사 상어와 비바라기]()
 
+-----------------------------------------------------------
 
+## [모의 SW 역량 테스트](https://swexpertacademy.com/main/userpage/code/userProblemBoxDetail.do?probBoxId=AV5Po0AqAPwDFAUq&leftPage=1&curPage=userpage&userId=SWEAC)
+> 실전 입력/출력 연습을 위해서 풀어봄
+
+- `[]` [5656번/벽돌 깨기]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+- `[]` [5653번/줄기세포 배양]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)
+- `[]` [4014번/활주로 건설]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
+- `[]` [2105번/디저트 카페]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
+- `[]` [5650번/핀볼 게임]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo)
