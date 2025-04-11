@@ -34,4 +34,4 @@
 - [CONSTRAINT(제약 조건)](https://github.com/SeoMiYoung/miyoung-zone/issues/116)
 - [INDEX](https://github.com/SeoMiYoung/miyoung-zone/issues/117)
 - [UNDO, REDO](https://github.com/SeoMiYoung/miyoung-zone/issues/118)
-
+- [컬럼의 순번(position)에 따라 정렬하는 방식](https://github.com/SeoMiYoung/miyoung-zone/issues/148)
