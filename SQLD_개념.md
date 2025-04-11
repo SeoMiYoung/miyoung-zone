@@ -36,3 +36,4 @@
 - [UNDO, REDO](https://github.com/SeoMiYoung/miyoung-zone/issues/118)
 - [컬럼의 순번(position)에 따라 정렬하는 방식](https://github.com/SeoMiYoung/miyoung-zone/issues/148)
 - [SQL 집합 연산자 정리: UNION부터 JOIN 비교까지](https://github.com/SeoMiYoung/miyoung-zone/issues/149)
+- [논리 연산자 NOT/AND/OR](https://github.com/SeoMiYoung/miyoung-zone/issues/150)
