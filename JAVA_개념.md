@@ -51,7 +51,7 @@ class MathUtil {
 int result = MathUtil.square(5);  // ✅ 객체 생성 없이 바로 호출
 ```
 
-- 단, static 메서드 안에서는 인스턴스 변수 사용 불가!
+- 단, static 메서드 안에서는 인스턴스(멤버) 변수 사용 불가! --> 그 이유는, 생성 안하고도 사용할 수 있다고 했잖아 static은? 그런데 만약에 생성해야지만 만들어지는 멤버 변수에 접근할 수 있게 하면, 뭔가 꼬이지..
 - static 메서드에서는 this, super 사용 불가능!
 
 ```
@@ -59,3 +59,17 @@ static void method() {
     System.out.println(this.value); // ❌ 오류!
 }
 ```
+
+### ✔️ Thread 관련 흐름
+```
+Thread t = new Thread(); // ❶ 스레드 객체 생성
+t.start();               // ❷ 스레드 실행 시작 (run() 호출)
+t.join();                // ❸ 이 스레드가 끝날 때까지 기다림
+```
+![image](https://github.com/user-attachments/assets/e03a35bb-a6dc-4171-b349-f334d142141c)
+![image](https://github.com/user-attachments/assets/b595b158-bee1-46a3-99e4-80d5735de56a)
+![image](https://github.com/user-attachments/assets/b6d2edcb-f339-4859-be0e-84b49e0dd594)
+![image](https://github.com/user-attachments/assets/55f08ecf-3136-4ac6-8f34-92cda00f8106)
+![image](https://github.com/user-attachments/assets/b0337a41-137a-4fb3-8283-8b8f9e11437e)
+![image](https://github.com/user-attachments/assets/189b6427-7cd1-4a4b-a169-e95ee8e7d73e)
+
