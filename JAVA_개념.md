@@ -1,2 +1,4 @@
 - [자바에서의 System.out.print() 줄바꿈](https://github.com/SeoMiYoung/miyoung-zone/issues/153)
 - [자바 배열 초기화 기본값](https://github.com/SeoMiYoung/miyoung-zone/issues/154)
+- [`=`와 `equals`](https://github.com/SeoMiYoung/miyoung-zone/issues/155)
+- [오버라이딩](https://github.com/SeoMiYoung/miyoung-zone/issues/156)
