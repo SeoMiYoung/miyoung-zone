@@ -7,7 +7,7 @@
 - 🔗 [코딩테스트 고득점 Kit](./python_알고리즘_문풀.md)
 - 🔗 [삼성 SW 역량 테스트 기출 문제 & SW Expert Academy](./python_samsung_sw.md)
 
-### 📂 SQLD
+### 📂 SQL문 활용
 - 🔗 [SQLD 개념 정리](./SQLD_개념.md)
 
 
