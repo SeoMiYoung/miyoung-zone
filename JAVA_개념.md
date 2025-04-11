@@ -73,3 +73,6 @@ t.join();                // ❸ 이 스레드가 끝날 때까지 기다림
 ![image](https://github.com/user-attachments/assets/b0337a41-137a-4fb3-8283-8b8f9e11437e)
 ![image](https://github.com/user-attachments/assets/189b6427-7cd1-4a4b-a169-e95ee8e7d73e)
 
+### ✔️ java에서 몫을 구하려면?
+![image](https://github.com/user-attachments/assets/a641805a-69f9-4828-80d2-8b8bfe45bf80)
+
