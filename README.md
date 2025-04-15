@@ -10,8 +10,8 @@
 
 ### 📂 프로그래밍 언어
 - 🔗 [C 개념](./programming-language/C.md)
-- 🔗 [Python 개념](./PYTHON_개념.md)
-- 🔗 [JAVA 개념](./JAVA_개념.md)
+- 🔗 [Python 개념](./programming-language/Python.md)
+- 🔗 [Java 개념](./programming-language/Java.md)
 
 ### 📂 CS
 - 🔗 [알고리즘](./CS_알고리즘.md)
