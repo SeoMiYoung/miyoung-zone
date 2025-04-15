@@ -8,8 +8,7 @@
 - [싱글톤 패턴](https://github.com/SeoMiYoung/miyoung-zone/issues/165)
 
 
-### ✔️ swith()문
-break문이 없다면, 조건을 만족한 곳~끝까지 계속 실행됨.
+
 
 ### ✔️ static
 클래스에 딱 1개만 존재하는 필드/메서드로, 객체를 생성하지 않아도 클래스 이름으로 접근할 수 있어!
