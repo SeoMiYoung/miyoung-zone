@@ -2,6 +2,7 @@
 - [자바 배열 초기화 기본값](https://github.com/SeoMiYoung/miyoung-zone/issues/154)
 - [`=`와 `equals`](https://github.com/SeoMiYoung/miyoung-zone/issues/155)
 - [오버라이딩 & 동적바인딩](https://github.com/SeoMiYoung/miyoung-zone/issues/156)
+- [기본 생성자와 생성자 호출 과정](https://github.com/SeoMiYoung/miyoung-zone/issues/164)
 - [오버로딩](https://github.com/SeoMiYoung/miyoung-zone/issues/157)
 - [추상클래스](https://github.com/SeoMiYoung/miyoung-zone/issues/159)
 
