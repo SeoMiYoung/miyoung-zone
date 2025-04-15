@@ -6,58 +6,12 @@
 - [오버로딩](https://github.com/SeoMiYoung/miyoung-zone/issues/157)
 - [추상클래스 & 인터페이스](https://github.com/SeoMiYoung/miyoung-zone/issues/159)
 - [싱글톤 패턴](https://github.com/SeoMiYoung/miyoung-zone/issues/165)
+- [switch문](https://github.com/SeoMiYoung/miyoung-zone/issues/166)
+- [static](https://github.com/SeoMiYoung/miyoung-zone/issues/167)
 
 
 
 
-### ✔️ static
-클래스에 딱 1개만 존재하는 필드/메서드로, 객체를 생성하지 않아도 클래스 이름으로 접근할 수 있어!
-static은 클래스에 소속! (인스턴스 아님!) 
-
-static은 클래스에 고정된 "공용 자원"이야.
-객체 없이 바로 접근할 수 있고, 모든 인스턴스가 공유해서 쓰는 거다!
-
-#### <static 변수인 count는 모든 인스턴스가 공유함>
-```
-class Counter {
-    static int count = 0;
-
-    Counter() {
-        count++;
-        System.out.println("count = " + count);
-    }
-}
-```
-```
-public class Main {
-    public static void main(String[] args) {
-        new Counter(); // count = 1
-        new Counter(); // count = 2
-        new Counter(); // count = 3
-    }
-}
-```
-
-#### <static 메서드>
-```
-class MathUtil {
-    static int square(int x) {
-        return x * x;
-    }
-}
-```
-```
-int result = MathUtil.square(5);  // ✅ 객체 생성 없이 바로 호출
-```
-
-- 단, static 메서드 안에서는 인스턴스(멤버) 변수 사용 불가! --> 그 이유는, 생성 안하고도 사용할 수 있다고 했잖아 static은? 그런데 만약에 생성해야지만 만들어지는 멤버 변수에 접근할 수 있게 하면, 뭔가 꼬이지..
-- static 메서드에서는 this, super 사용 불가능!
-
-```
-static void method() {
-    System.out.println(this.value); // ❌ 오류!
-}
-```
 
 ### ✔️ Thread 관련 흐름
 ```
