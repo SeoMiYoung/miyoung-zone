@@ -9,6 +9,7 @@
 - 🔗 [SQLD 개념](./SQLD_개념.md)
 
 ### 📂 프로그래밍 언어
+- 🔗 [C 개념](./programming-language/C.md)
 - 🔗 [Python 개념](./PYTHON_개념.md)
 - 🔗 [JAVA 개념](./JAVA_개념.md)
 
