@@ -5,9 +5,8 @@
 - [기본 생성자와 생성자 호출 과정](https://github.com/SeoMiYoung/miyoung-zone/issues/164)
 - [오버로딩](https://github.com/SeoMiYoung/miyoung-zone/issues/157)
 - [추상클래스 & 인터페이스](https://github.com/SeoMiYoung/miyoung-zone/issues/159)
+- [싱글톤 패턴](https://github.com/SeoMiYoung/miyoung-zone/issues/165)
 
-### ✔️ java에서의 싱글톤 패턴
-클래스를 여러번 호출했을 때, 인스턴스를 하나만 생성하고, 그 다음 생성 시, 기존에 생성한 것이 있나 확인하고, 있으면 기존 것 반환 => `싱글톤`
 
 ### ✔️ swith()문
 break문이 없다면, 조건을 만족한 곳~끝까지 계속 실행됨.
