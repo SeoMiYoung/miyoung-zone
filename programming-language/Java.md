@@ -9,7 +9,7 @@
 - [switch문](https://github.com/SeoMiYoung/miyoung-zone/issues/166)
 - [static](https://github.com/SeoMiYoung/miyoung-zone/issues/167)
 - [가변형 배열, 정방형 배열](https://github.com/SeoMiYoung/miyoung-zone/issues/168)
-- [Tread 클래스]()
+- [Tread 클래스](https://github.com/SeoMiYoung/miyoung-zone/issues/169)
 
 
 
