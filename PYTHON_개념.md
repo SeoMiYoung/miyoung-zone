@@ -2,3 +2,4 @@
 - [split()](https://github.com/SeoMiYoung/miyoung-zone/issues/4)
 - [set()](https://github.com/SeoMiYoung/miyoung-zone/issues/6)
 - [비트 연산](https://github.com/SeoMiYoung/miyoung-zone/issues/160)
+- [리스트 슬라이싱 - [::2]](https://github.com/SeoMiYoung/miyoung-zone/issues/161)
