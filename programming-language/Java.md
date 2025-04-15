@@ -12,24 +12,6 @@
 - [Tread 클래스](https://github.com/SeoMiYoung/miyoung-zone/issues/169)
 
 
-
-
-
-
-
-### ✔️ Thread 관련 흐름
-```
-Thread t = new Thread(); // ❶ 스레드 객체 생성
-t.start();               // ❷ 스레드 실행 시작 (run() 호출)
-t.join();                // ❸ 이 스레드가 끝날 때까지 기다림
-```
-![image](https://github.com/user-attachments/assets/e03a35bb-a6dc-4171-b349-f334d142141c)
-![image](https://github.com/user-attachments/assets/b595b158-bee1-46a3-99e4-80d5735de56a)
-![image](https://github.com/user-attachments/assets/b6d2edcb-f339-4859-be0e-84b49e0dd594)
-![image](https://github.com/user-attachments/assets/55f08ecf-3136-4ac6-8f34-92cda00f8106)
-![image](https://github.com/user-attachments/assets/b0337a41-137a-4fb3-8283-8b8f9e11437e)
-![image](https://github.com/user-attachments/assets/189b6427-7cd1-4a4b-a169-e95ee8e7d73e)
-
 ### ✔️ java에서 몫을 구하려면?
 ![image](https://github.com/user-attachments/assets/a641805a-69f9-4828-80d2-8b8bfe45bf80)
 
