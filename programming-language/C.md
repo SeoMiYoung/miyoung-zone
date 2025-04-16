@@ -1,1 +1,1 @@
-
+- [완전수](https://github.com/SeoMiYoung/miyoung-zone/issues/171)
