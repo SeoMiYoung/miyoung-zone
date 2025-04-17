@@ -11,3 +11,4 @@
 - [%s 출력과 \0의 관계 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/181)
 - [구조체 영상](https://github.com/SeoMiYoung/miyoung-zone/issues/182)
 - [++, --](https://github.com/SeoMiYoung/miyoung-zone/issues/183)
+- [연산자 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/184)
