@@ -9,3 +9,4 @@
 - [gets(), fgets(), scanf()](https://github.com/SeoMiYoung/miyoung-zone/issues/179)
 - [시저 암호 스타일(알파벳을 일정한 거리만큼 밀어서 변환하는 방식)](https://github.com/SeoMiYoung/miyoung-zone/issues/180)
 - [%s 출력과 \0의 관계 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/181)
+- [구조체 영상](https://github.com/SeoMiYoung/miyoung-zone/issues/182)
