@@ -3,3 +3,4 @@
 - [switch문](https://github.com/SeoMiYoung/miyoung-zone/issues/173)
 - [소인수](https://github.com/SeoMiYoung/miyoung-zone/issues/174)
 - [포인터 & 배열 핵심 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/175)
+- [왜 10으로 나누면 마지막 자릿수를 구할 수 있을까?](https://github.com/SeoMiYoung/miyoung-zone/issues/176)
