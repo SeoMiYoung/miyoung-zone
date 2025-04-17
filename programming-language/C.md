@@ -1,3 +1,3 @@
 - [완전수](https://github.com/SeoMiYoung/miyoung-zone/issues/171)
 - [나눗셈, 몫, 나머지](https://github.com/SeoMiYoung/miyoung-zone/issues/172)
-- 
+- [switch문](https://github.com/SeoMiYoung/miyoung-zone/issues/173)
