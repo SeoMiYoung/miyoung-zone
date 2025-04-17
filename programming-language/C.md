@@ -8,3 +8,4 @@
 - [reverse() 같은 문자열 관련 함수는 \0(널문자) 전까지만 처리하는게 정석!](https://github.com/SeoMiYoung/miyoung-zone/issues/178)
 - [gets(), fgets(), scanf()](https://github.com/SeoMiYoung/miyoung-zone/issues/179)
 - [시저 암호 스타일(알파벳을 일정한 거리만큼 밀어서 변환하는 방식)](https://github.com/SeoMiYoung/miyoung-zone/issues/180)
+- [%s 출력과 \0의 관계 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/181)
