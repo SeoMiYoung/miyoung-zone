@@ -5,3 +5,4 @@
 - [포인터 & 배열 핵심 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/175)
 - [왜 10으로 나누면 마지막 자릿수를 구할 수 있을까?](https://github.com/SeoMiYoung/miyoung-zone/issues/176)
 - [sizeof 연산자 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/177)
+- [reverse() 같은 문자열 관련 함수는 \0(널문자) 전까지만 처리하는게 정석!](https://github.com/SeoMiYoung/miyoung-zone/issues/178)
