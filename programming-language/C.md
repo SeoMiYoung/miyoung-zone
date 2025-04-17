@@ -2,4 +2,4 @@
 - [나눗셈, 몫, 나머지](https://github.com/SeoMiYoung/miyoung-zone/issues/172)
 - [switch문](https://github.com/SeoMiYoung/miyoung-zone/issues/173)
 - [소인수](https://github.com/SeoMiYoung/miyoung-zone/issues/174)
-- 
+- [포인터 & 배열 핵심 정리](https://github.com/SeoMiYoung/miyoung-zone/issues/175)
