@@ -32,6 +32,7 @@
 - `[1️⃣]` [네트워크](https://github.com/SeoMiYoung/miyoung-zone/issues/133) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43162#) `나는 BFS로 품`
 - `[1️⃣]` [게임 맵 최단거리](https://github.com/SeoMiYoung/miyoung-zone/issues/134) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1844) `visited를 사용하지 않은 BFS` `최단거리 구하기`
 - `[1️⃣]` [단어 변환](https://github.com/SeoMiYoung/miyoung-zone/issues/186) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43163) `BFS`, `집합 사용`
+- `[1️⃣]` [아이템 줍기](https://github.com/SeoMiYoung/miyoung-zone/issues/187) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/87694) `BFS` `2배로 확장하는 아이디어..!!`
 
 ### 📂스택/큐
 - `[1️⃣]` [같은 숫자는 싫어](https://github.com/SeoMiYoung/miyoung-zone/issues/124) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/12906) `deque()`
