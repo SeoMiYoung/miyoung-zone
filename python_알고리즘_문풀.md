@@ -22,6 +22,11 @@
 - `[1️⃣]` [그 외 정렬 알고리즘](https://github.com/SeoMiYoung/miyoung-zone/issues/51)
 
 ### 📂해시
+- `[1️⃣]` [완주하지 못한 선수]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- `[1️⃣]` [폰켓몬]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+- `[1️⃣]` [전화번호 목록]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+- `[1️⃣]` [의상]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+- `[1️⃣]` [베스트앨범]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 📂이분탐색
 - `[]` [입국심사]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
