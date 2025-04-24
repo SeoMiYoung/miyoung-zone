@@ -23,6 +23,7 @@
 
 ### 📂해시
 - `[1️⃣]` [완주하지 못한 선수](https://github.com/SeoMiYoung/miyoung-zone/issues/20) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+   - [remove 함수로 인한, 파이썬 효율성 테스트 실패](https://github.com/SeoMiYoung/miyoung-zone/issues/20)
 - `[1️⃣]` [폰켓몬]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
 - `[1️⃣]` [전화번호 목록]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 - `[1️⃣]` [의상]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
