@@ -10,7 +10,7 @@
    - 🔗 [삼성 SW 역량 테스트 기출 문제](./python_samsung_sw.md) 
 - SWEA(SW Expert Academy)
    - 🔗 [모의 SW 역량 테스트](./swea-test.md)
-   - 🔗 [D1, D2, D3](./D-problem.md)
+   - 🔗 [D1, D2, D3...](./D-problem.md)
 
 ---
 
