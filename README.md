@@ -7,7 +7,7 @@
 - 프로그래머스
    - 🔗 [코딩테스트 고득점 Kit](./python_알고리즘_문풀.md)
 - 백준
-   - 🔗 [삼성 SW 역량 테스트 기출 문제 & SW Expert Academy](./python_samsung_sw.md) 
+   - 🔗 [삼성 SW 역량 테스트 기출 문제](./python_samsung_sw.md) 
 - SWEA(SW Expert Academy)
    - 🔗 [모의 SW 역량 테스트](./swea-test.md)
    - 🔗 [D1, D2, D3]()
