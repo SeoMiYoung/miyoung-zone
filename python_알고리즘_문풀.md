@@ -29,7 +29,7 @@
 - `[1️⃣]` [베스트앨범]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 📂이분탐색
-- `[]` [입국심사]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
+- `[1️⃣]` [입국심사](https://github.com/SeoMiYoung/miyoung-zone/issues/191) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
 - `[]` [징검다리]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
 
 ### 📂DFS/BFS
