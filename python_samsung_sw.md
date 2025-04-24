@@ -12,7 +12,3 @@
 - `[1️⃣]` [14500번/테트로미노](https://github.com/SeoMiYoung/miyoung-zone/issues/144) [<문제 링크>](https://www.acmicpc.net/problem/14500) `DFS+예외처리` `어렵다..`
 - `[1️⃣]` [14888번/연산자 끼워넣기](https://github.com/SeoMiYoung/miyoung-zone/issues/145) [<문제 링크>](https://www.acmicpc.net/problem/14888) `DFS` `자잘한 조건만 빼면, 크게 안어려움`
 - `[1️⃣]` [14889번/스타트와 링크](https://github.com/SeoMiYoung/miyoung-zone/issues/146) [<문제 링크>](https://www.acmicpc.net/problem/14889) `조합 dfs` `시간 관리 잘해야 함` `개인적으로 엄청 어려웠음..`
-
-#### <시간 남으면>
-- [15684번/사다리 조작]()
-- [21610번/마법사 상어와 비바라기]()
