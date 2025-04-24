@@ -1,7 +1,7 @@
 ## 코딩테스트
 ### 📂 코딩테스트 with Python
 - 개념
-   - 🔗 [코딩테스트를 위한 Python 개념](./python_코딩테스트_개념.md) `코딩테스트를 보기 위해 필요한 내용만 담음`
+   - 🔗 [코딩테스트를 위한 Python 개념](./python_코딩테스트_개념.md)
 - 교재
    - 🔗 [이것이 취업을 위한 코딩 테스트다](https://github.com/SeoMiYoung/ready-for-coding-test) 
 - 프로그래머스
