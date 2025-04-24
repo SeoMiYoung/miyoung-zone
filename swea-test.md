@@ -3,7 +3,7 @@
 > 반복 체크: `[1️⃣2️⃣...]`
 > > 몇 번 풀었는지 체크한다.
 
-- `[1️⃣]` [5656번/벽돌 깨기](https://github.com/SeoMiYoung/miyoung-zone/issues/147) [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) `DFS` `시뮬레이션`
+- `[1️⃣2️⃣]` [5656번/벽돌 깨기](https://github.com/SeoMiYoung/miyoung-zone/issues/147) [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) `DFS` `시뮬레이션`
 - `[]` [5653번/줄기세포 배양]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo)
 - `[]` [4014번/활주로 건설]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH)
 - `[]` [2105번/디저트 카페]() [<문제 링크>](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
