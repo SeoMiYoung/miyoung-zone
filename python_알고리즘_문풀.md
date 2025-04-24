@@ -30,7 +30,7 @@
 
 ### 📂이분탐색
 - `[1️⃣]` [입국심사](https://github.com/SeoMiYoung/miyoung-zone/issues/191) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
-- `[]` [징검다리]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
+- `[1️⃣]` [징검다리](https://github.com/SeoMiYoung/miyoung-zone/issues/192) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43236)
 
 ### 📂DFS/BFS
 - `[1️⃣]` [타겟 넘버](https://github.com/SeoMiYoung/miyoung-zone/issues/132) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43165) `DFS(재귀)` `DFS(스택)` `BFS(큐)` --> 3가지 풀이 존재
