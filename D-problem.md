@@ -54,5 +54,4 @@
 - `[1️⃣]` [21425. +=](https://github.com/SeoMiYoung/miyoung-zone/blob/main/SWEA/D2/21425.py)
   
 ### 📂 D3
-- `[1️⃣]` []()
-- `[1️⃣]` []()
+- `[1️⃣]` [5642. [Professional] 합](https://github.com/SeoMiYoung/miyoung-zone/blob/main/SWEA/D3/5642.py)
