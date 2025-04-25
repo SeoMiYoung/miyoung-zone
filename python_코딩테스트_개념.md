@@ -64,6 +64,7 @@
 - [가변객체 & 불변객체](https://github.com/SeoMiYoung/miyoung-zone/issues/152)
 - [문자열 함수들은 원본 문자열을 변경하지 않을까? YES --> "새로운 문자열을 반환함"](https://github.com/SeoMiYoung/miyoung-zone/issues/158)
 - [파이썬 문자열의 인덱스 접근](https://github.com/SeoMiYoung/miyoung-zone/issues/185)
+- [`[[]]*n`과 `[set()]*n`의 얕은 복사 문제](https://github.com/SeoMiYoung/miyoung-zone/issues/194)
 
 ## 📂기타
 - [base64 인코딩 원리](https://github.com/SeoMiYoung/miyoung-zone/issues/7)
