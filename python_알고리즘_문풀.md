@@ -56,6 +56,8 @@
 > > 중복적인 연산이 많을때 사용!
 > > [참고 영상](https://www.youtube.com/watch?v=0bqfTzpWySY)
 
+- `[1️⃣]` [정수 삼각형](https://github.com/SeoMiYoung/miyoung-zone/issues/193) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43105) `DP 기본`
+- `[]` [N으로 표현]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 
 ### 📂힙</summary>
 
