@@ -22,7 +22,7 @@
 - `[1️⃣]` [그 외 정렬 알고리즘](https://github.com/SeoMiYoung/miyoung-zone/issues/51)
 
 ### 📂해시
-- `[1️⃣]` [완주하지 못한 선수](https://github.com/SeoMiYoung/miyoung-zone/issues/20) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+- `[1️⃣]` 완주하지 못한 선수 [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
    - [코드1](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_1.py)
    - [코드2](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_2.py)
    - [코드3](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_3.py)
