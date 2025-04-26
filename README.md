@@ -1,4 +1,7 @@
 ## 코딩테스트
+> [출처](https://www.youtube.com/watch?v=Wx91sqfouCs)
+![image](https://github.com/user-attachments/assets/f51fcfc3-9701-4cac-8fcb-744ea80148f9)
+
 ### 📂 코딩테스트 with Python
 - 개념
    - 🔗 [코딩테스트를 위한 Python 개념](./python_코딩테스트_개념.md)
