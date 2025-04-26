@@ -66,7 +66,7 @@
 - `[1️⃣]` [정수 삼각형](https://github.com/SeoMiYoung/miyoung-zone/issues/193) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43105) `DP 기본`
 - `[1️⃣]` [N으로 표현](https://github.com/SeoMiYoung/miyoung-zone/issues/195) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
 - `[1️⃣]` [등굣길](https://github.com/SeoMiYoung/miyoung-zone/issues/196) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42898) `경로의 수를 카운팅 하는 신박한 방식` `x와 y값 헷갈림 주의`
-- `[]` [사칙연산]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
+- `[]` [사칙연산](https://github.com/SeoMiYoung/miyoung-zone/issues/197) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1843)
 - `[]` [도둑질]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42897)
 
 ### 📂힙</summary>
