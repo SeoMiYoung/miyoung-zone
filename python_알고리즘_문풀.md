@@ -23,11 +23,18 @@
 
 ### 📂해시
 - `[1️⃣]` [완주하지 못한 선수](https://github.com/SeoMiYoung/miyoung-zone/issues/20) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42576)
+   - [코드1](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_1.py)
+   - [코드2](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_2.py)
+   - [코드3](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98_3.py)
    - [remove 함수로 인한, 파이썬 효율성 테스트 실패](https://github.com/SeoMiYoung/miyoung-zone/issues/20)
-- `[1️⃣]` [폰켓몬]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
-- `[1️⃣]` [전화번호 목록]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
-- `[1️⃣]` [의상]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
-- `[1️⃣]` [베스트앨범]() [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+- `[1️⃣]` [폰켓몬](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%ED%8F%B0%EC%BC%93%EB%AA%AC.py) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/1845)
+- `[1️⃣]` 전화번호 목록 [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+   - [코드1](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D_1.py)
+   - [코드2](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D_2.py)
+   - [코드3](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D_3.py)
+   - [코드4](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8_%EB%AA%A9%EB%A1%9D_4.py)
+- `[1️⃣]` [의상](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EC%9D%98%EC%83%81.py) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+- `[1️⃣]` [베스트앨범](https://github.com/SeoMiYoung/miyoung-zone/blob/main/Programmers/algorithm_practice_kit/hash/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 📂이분탐색
 - `[1️⃣]` [입국심사](https://github.com/SeoMiYoung/miyoung-zone/issues/191) [<문제 링크>](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
