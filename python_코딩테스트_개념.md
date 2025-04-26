@@ -88,4 +88,4 @@
 - [generator expression](https://github.com/SeoMiYoung/miyoung-zone/issues/129)
 - [단락 평가](https://github.com/SeoMiYoung/miyoung-zone/issues/139)
 - [for-else](https://github.com/SeoMiYoung/miyoung-zone/issues/190)
-
+- [if elif else 에서 else를 굳이 써야하나?](https://github.com/SeoMiYoung/miyoung-zone/issues/198)
