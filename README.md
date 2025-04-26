@@ -5,7 +5,7 @@
 - 교재
    - 🔗 [이것이 취업을 위한 코딩 테스트다](https://github.com/SeoMiYoung/ready-for-coding-test) 
 - 프로그래머스
-   - 🔗 [코딩테스트 고득점 Kit](./python_알고리즘_문풀.md)
+   - 🔗 [코딩테스트 고득점 Kit](./python_알고리즘_문풀.md) `목표: 2회독`
 - 백준
    - 🔗 [삼성 SW 역량 테스트 기출 문제](./python_samsung_sw.md) 
 - SWEA(SW Expert Academy)
